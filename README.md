@@ -4,7 +4,7 @@ A new Flutter project.
 
 We can enhance our flutter applications with stunning rive animations, bringing life and interactivity to our UI.
 
-We simply executed the example provided in the Rive GitHub repository. An additional feature we incorporated into this example is the presence of the animation within a sized box widget with dimensions of 200 in height and width.
+We simply executed the example (basic example playing a rive animation from a packaged asset) provided in the Rive GitHub repository. An additional feature we incorporated into this example is the presence of the animation within a sized box widget with dimensions of 200 in height and width.
 
 ## Getting Started
 
